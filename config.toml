@@ -1,0 +1,16 @@
+baseurl = "https://kwonminho.github.io/"
+title = "Life Log"
+
+languageCode = "ko-KR"
+DefaultContentLanguage = "kr"
+theme = "hugo-hello-programmer-theme"
+disqusShortname = "XXXX"
+googleAnalytics = "UA-XXXXXXXX-X"
+paginate = 7
+
+[author]
+    name = "minho"
+    email = "alsgh458@gmail.com"
+
+[params]
+    description = "♥"

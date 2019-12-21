@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/KwonMinho/KwonMinho.github.io.git
+	branch = master
+[submodule "themes/hugo-hello-programmer-them"]
+	path = themes/hugo-hello-programmer-them
+	url = https://github.com/KwonMinho/blog.git
