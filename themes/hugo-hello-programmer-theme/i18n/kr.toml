@@ -2,16 +2,16 @@
 # Menu
 ###################
 [menuCategories]
-other = "카테고리"
+other = "Categories"
 
 [menuTags]
-other = "태그"
+other = "Tags"
 
 [menuProjects]
-other = "프로젝트"
+other = "About Me"
 
 [menuBurgerTitle]
-other = "메뉴"
+other = "Menu"
 
 [menuSearchKeyword]
 other = "검색어"
