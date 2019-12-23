@@ -5,12 +5,12 @@ categories: ["AI"]
 tags: ["AI_Tool"]
 cover: ""
 ---
-# 1. Scikit-learn
-## 1.1 개요
+## 1. Scikit-learn
+### 1.1 개요
     1. 이 라이브러리는 파이썬에서 가장 유명한 머신러닝 라이브러리 중 하나
     2. Classfication, Regression Clustering 등 다양한 머신러닝 알고리즘을 적용할 수 있는 함수 제공
 
-## 1.2 간단한 데이터 셋
+### 1.2 간단한 데이터 셋
     사이킷런 빌트인 데이터 셋
     캐글 데이터 셋
     UCI 머신러닝 저장소
@@ -26,7 +26,7 @@ iris.target // 레이블 값(정답 값)
 ```
 </code>
 
-## 1.3 파워풀한 fit(), predict()
+### 1.3 파워풀한 fit(), predict()
 사이킷런은 핵심함수인 fit() 함수로 학습하고 predict()으로 예측하는 구조로 되어있다.
 
 [**Exam**]
