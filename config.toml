@@ -4,7 +4,7 @@ title = "Life Log"
 languageCode = "ko-KR"
 DefaultContentLanguage = "kr"
 theme = "hugo-hello-programmer-theme"
-disqusShortname = "XXXX"
+disqusShortname = "kwonminho1"
 googleAnalytics = "UA-XXXXXXXX-X"
 paginate = 7
 
